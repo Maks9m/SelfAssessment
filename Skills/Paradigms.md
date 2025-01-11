@@ -7,12 +7,12 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -28,16 +28,16 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
-  - Static method
+  - Operator `new` u
+  - Static method u
   - Method
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields u
+  - Private fields u
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class h
   - Polymorphism
   - Abstract class
   - Interface

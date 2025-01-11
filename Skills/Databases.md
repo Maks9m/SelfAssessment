@@ -1,11 +1,11 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery u
   - Database scalability
   - Relational databases
   - Key-value store

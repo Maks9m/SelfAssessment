@@ -78,10 +78,10 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals u
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
-  - Data types and collections
+  - Data types and collections u
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity u
 - Web development
   - ASP.NET Core
   - Blazor

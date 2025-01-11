@@ -4,17 +4,17 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm h
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
-  - Library
+  - Library u
   - Package
   - Component
   - Framework
@@ -23,35 +23,35 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle h
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar h
   - Literal
-  - Expression
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
   - Method
   - Class
   - Prototype
-  - Event
+  - Event h
   - Type
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions k
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
   - DNS
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
@@ -157,7 +157,7 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
   - Refactoring
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github k
   - Docker
   - Kubernetes
   - GCC
@@ -183,7 +183,7 @@
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code k
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers k
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system k
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards

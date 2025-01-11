@@ -1,8 +1,8 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularitz
+  - Components h
   - Directories
   - GRASP
   - SOLID
