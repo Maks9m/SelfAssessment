@@ -6,27 +6,27 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 🖐️ used
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity: 👂 heard
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -67,19 +67,19 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
   - UDP
   - TLS
-  - Websocket
-  - SSE
+  - Websocket: 👂 heard
+  - SSE: 👂 heard
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -90,36 +90,36 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 👂 heard
   - Application configuring
-  - Testing
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
-  - Buffer
-  - Console
-  - Inspector
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
+  - Inspector: 🖐️ used
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 👂 heard
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message`: 🎓 known
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks

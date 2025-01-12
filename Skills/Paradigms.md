@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming h
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -21,30 +21,30 @@
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box
-  - Information hiding
+  - Black box: 🎓 known
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor
-  - Operator `new` u
-  - Static method u
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields u
-  - Private fields u
-  - Field declarations
-  - Inheritance
-  - Parent class h
+  - Constructor: 🎓 known
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance: 👂 heard
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,21 +64,21 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command: 👂 heard
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight
