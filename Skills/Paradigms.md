@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
+  - Procedural programming: 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming h
-  - Prototype-based programming 
-  - Object-oriented programming k
+  - Functional programming: 👂 heard
+  - Prototype-based programming
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming k
-  - Parallel programming h
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -21,30 +21,30 @@
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box k
-  - Information hiding h
+  - Black box: 🎓 known
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition h
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor k
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method h
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance k
-  - Parent class k
+  - Constructor: 🎓 known
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism
   - Abstract class
-  - Interface k
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance h
+  - Instance: 👂 heard
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,21 +64,21 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton h
+  - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy h
+  - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command h
-  - Iterator h
+  - Command: 👂 heard
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype h
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight

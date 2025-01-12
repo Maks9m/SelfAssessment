@@ -5,7 +5,7 @@
   - Stateful and stateless services
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
-  - Garbage collection in .NET h
+  - Garbage collection in .NET: 👂 heard
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
@@ -29,13 +29,13 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ h
+  - LINQ: 👂 heard
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
   - Memory and resource management
-  - Globalization and localization h
+  - Globalization and localization: 👂 heard
 - Network and Protocols
   - HTTP/HTTPS support
   - WebSockets for real-time communication
@@ -60,16 +60,16 @@
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET u
+  - Exception handling in .NET: 🖐️ used
   - Custom error classes
-  - Debugging and diagnostic tools u
+  - Debugging and diagnostic tools: 🖐️ used
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
   - COM interop
-  - .NET for `WebAssembly` h
+  - .NET for `WebAssembly`: 👂 heard
   - Custom middleware development
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals e
-  - Advanced C# features (LINQ, async/await, delegates, events) u
-  - Reflection and dynamic programming h
-  - Data types and collections u
-  - Generics and extension methods u
+  - C# syntax and language fundamentals: 🙋 explained
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
+  - Reflection and dynamic programming: 👂 heard
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity u
+  - Unity: 🖐️ used
 - Web development
   - ASP.NET Core
   - Blazor
