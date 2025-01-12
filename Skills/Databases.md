@@ -6,12 +6,12 @@
   - Migrations
   - Schema versioning
   - Backup and recovery u
-  - Database scalability
-  - Relational databases
-  - Key-value store
+  - Database scalability k
+  - Relational databases h
+  - Key-value store k
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases k
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing h
   - Primary keys
   - Foreign keys
   - Transactions
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data h
+  - Data analysis k
+  - AI tools u
+  - Cloud databases u
+  - Data Visualization h

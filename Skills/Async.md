@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch` k
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,14 +19,14 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread h
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks k
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise k
+  - Async/await k
   - Future
   - Deferred
   - Sync generator
@@ -42,7 +42,7 @@
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
+  - promisify h
   - asyncify
   - Callbacks compose
   - Async compose
@@ -52,9 +52,9 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool h
+  - Async Queue h
+  - Async Collector h
   - Semaphore
   - Mutex
   - Spin Lock
